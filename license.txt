@@ -1,0 +1,11 @@
+Bastion OpenLicense Agreement
+
+BastionPLUS License
+
+This license allows you to do the following:
+	-Take any element from it without creditting Bastion
+	-Modify it and make another mod
+	-Copying the entire mod and credit Bastion
+
+
+(C) 2021 Bastion
